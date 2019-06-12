@@ -1,4 +1,0 @@
-pepper
-salt 
-vinegar
-
